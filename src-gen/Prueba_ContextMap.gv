@@ -1,12 +1,12 @@
 digraph "ContextMapGraph" {
 graph ["imagepath"="/tmp/GraphvizJava"]
-"CustomerManagementContext" ["margin"="0.3","orientation"="58","shape"="egg","fontsize"="16","style"="bold","label"="CustomerManagementContext\n","fontname"="sans-serif"]
-"CustomerSelfServiceContext" ["margin"="0.3","orientation"="281","shape"="egg","fontsize"="16","style"="bold","label"="CustomerSelfServiceContext\n","fontname"="sans-serif"]
-"PolicyManagementContext" ["margin"="0.3","orientation"="194","shape"="egg","fontsize"="16","style"="bold","label"="PolicyManagementContext\n","fontname"="sans-serif"]
-"DebtCollection" ["margin"="0.3","orientation"="241","shape"="egg","fontsize"="16","style"="bold","label"="DebtCollection\n","fontname"="sans-serif"]
-"PrintingContext" ["margin"="0.3","orientation"="85","shape"="egg","fontsize"="16","style"="bold","label"="PrintingContext\n","fontname"="sans-serif"]
-"RiskManagementContext" ["margin"="0.3","orientation"="3","shape"="egg","fontsize"="16","style"="bold","label"="RiskManagementContext\n","fontname"="sans-serif"]
-"Ventas" ["margin"="0.3","orientation"="105","shape"="egg","fontsize"="16","style"="bold","label"="Ventas\n","fontname"="sans-serif"]
+"CustomerManagementContext" ["margin"="0.3","orientation"="38","shape"="egg","fontsize"="16","style"="bold","label"="CustomerManagementContext\n","fontname"="sans-serif"]
+"CustomerSelfServiceContext" ["margin"="0.3","orientation"="160","shape"="egg","fontsize"="16","style"="bold","label"="CustomerSelfServiceContext\n","fontname"="sans-serif"]
+"PolicyManagementContext" ["margin"="0.3","orientation"="330","shape"="egg","fontsize"="16","style"="bold","label"="PolicyManagementContext\n","fontname"="sans-serif"]
+"DebtCollection" ["margin"="0.3","orientation"="307","shape"="egg","fontsize"="16","style"="bold","label"="DebtCollection\n","fontname"="sans-serif"]
+"PrintingContext" ["margin"="0.3","orientation"="183","shape"="egg","fontsize"="16","style"="bold","label"="PrintingContext\n","fontname"="sans-serif"]
+"RiskManagementContext" ["margin"="0.3","orientation"="106","shape"="egg","fontsize"="16","style"="bold","label"="RiskManagementContext\n","fontname"="sans-serif"]
+"Ventas" ["margin"="0.3","orientation"="210","shape"="egg","fontsize"="16","style"="bold","label"="Ventas\n","fontname"="sans-serif"]
 "CustomerManagementContext" -> "CustomerSelfServiceContext" ["headlabel"=<<table cellspacing="0" cellborder="0" border="0">
 <tr><td bgcolor="white">D</td></tr>
 </table>>,"labeldistance"="0","fontsize"="12","taillabel"=<<table cellspacing="0" cellborder="0" border="0">
